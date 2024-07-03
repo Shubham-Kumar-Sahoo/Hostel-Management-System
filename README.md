@@ -34,12 +34,8 @@ The database schema includes the following tables:
 
 ## How to Use
 
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/HostelInformationSystem.git
-    ```
-2. **Open the database**:
+1. **Open the database**:
     - Open the provided Access database file `Hostel Management.accdb` in Microsoft Access.
-3. **Navigate through the system**:
+2. **Navigate through the system**:
     - Use the forms provided to input and manage data.
     - Generate reports using the predefined report templates to get insights into hostel management.
